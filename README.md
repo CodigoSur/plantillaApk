@@ -10,7 +10,7 @@
 ## Instalación
 1.Clonar el proyecto:
 ```
-git clone git@github.com:josetito/plantillaApk.git
+git clone git@github.com:CodigoSur/plantillaApk.git
 ```
 2.Permisos al script:
 ```
